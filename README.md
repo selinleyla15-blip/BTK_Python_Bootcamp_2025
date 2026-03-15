@@ -21,8 +21,5 @@ I am following a structured path to build a strong engineering foundation:
 * **IDE:** VS Code
 * **Version Control:** Git & GitHub
 
-## 🚀 About Me
-I am a Computer Engineering student at Atilim University, passionate about **Artificial Intelligence** and **Software Architecture**.
 
----
 *This repository is constantly updated as I progress through the bootcamp.*
